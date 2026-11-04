@@ -1,0 +1,197 @@
+0 [zero] : cero
+
+
+
+1 [one] : uno
+
+
+
+2 [two] : dos
+
+
+
+3 [three] : tres
+
+
+
+4 [four] : cuatro
+
+
+
+5 [five] : cinco
+
+
+
+6 [six] : seis
+
+
+
+7 [seven] : siete
+
+
+
+8 [eight] : ocho
+
+
+
+9 [nine] : nueve
+
+
+
+10 [ten] : diez
+
+
+
+11 [eleven] : once
+
+
+
+12 [twelve] : doce
+
+
+
+13 [thirteen] : trece
+
+
+
+14 [fourteen] : catorce
+
+
+
+15 [fifteen] : quince
+
+
+
+16 [sixteen] : dieciséis
+
+
+
+17 [seventeen] : diecisiete
+
+
+
+18 [eighteen] : dieciocho
+
+
+
+19 [nineteen] : diecinueve
+
+
+
+20 [twenty] : veinte
+
+
+
+21 [twenty-one] : veintiuno
+
+
+
+22 [twenty-two] : veintidós
+
+
+
+23 [twenty-three] : veintitrés
+
+
+
+24 [twenty-four] : veinticuatro
+
+
+
+25 [twenty-five] : veinticinco
+
+
+
+26 [twenty-six] : veintiséis
+
+
+
+27 [twenty-seven] : veintisiete
+
+
+
+28 [twenty-eight] : veintiocho
+
+
+
+29 [twenty-nine] : veintinueve
+
+
+
+30 [thirty] : treinta
+
+
+
+31 [thirty-one] : treinta y uno
+
+
+
+32 [thirty-two] : treinta y dos
+
+
+
+40 [forty] : cuarenta
+
+
+
+41 [forty-one] : cuarenta y uno
+
+
+
+42 [forty-two] : cuarenta y dos
+
+
+
+50 [fifty] : cincuenta
+
+
+
+53 [fifty-three] : cincuenta y tres
+
+
+
+57 [fifty-seven] : cincuenta y siete
+
+
+
+60 [sixty] : sesenta
+
+
+
+68 [sixty-eight] : sesenta y ocho
+
+
+
+70 [seventy] : setenta
+
+
+
+77 [seventy-seven] : setenta y siete
+
+
+
+79 [seventy-nine] : setenta y nueve
+
+
+
+80 [eighty] : ochenta
+
+
+
+86 [eighty-six] : ochenta y seis
+
+
+
+90 [ninety] : noventa
+
+
+
+92 [ninety-two] : noventa y dos
+
+
+
+100 [one hundred] : cien
+
+
+
+101 [one hundred and one] : ciento uno

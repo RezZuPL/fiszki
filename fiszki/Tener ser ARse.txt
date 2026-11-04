@@ -1,0 +1,35 @@
+[ARse] Yo : me -o
+
+[ARse] Tú : te -as
+
+[ARse] Él/Ella/Usted : se -a
+
+[ARse] Nosotros/as : nos -amos
+
+[ARse] Vosotros/as : os -áis
+
+[ARse] Ellos/Ellas/Ustedes : se -an
+
+[Tener] Yo : tengo
+
+[Tener] Tú : tienes
+
+[Tener] Él/Ella/Usted : tiene
+
+[Tener] Nosotros/as : tenemos
+
+[Tener] Vosotros/as : tenéis
+
+[Tener] Ellos/Ellas/Ustedes : tienen
+
+[SER] Yo : soy
+
+[SER] Tú : eres
+
+[SER] Él/Ella/Usted : es
+
+[SER] Nosotros/as : somos
+
+[SER] Vosotros/as : sois
+
+[SER] Ellos/Ellas : son
